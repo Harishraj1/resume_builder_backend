@@ -409,8 +409,12 @@ app.use(
   session({
     secret: process.env.SESSION_SECRET || 'resumebuildersecret',
     resave: false,
-    saveUnInitialized: false,
-    cookie: { secure: false, maxAge: 3600000 },
+    saveUninitialized: false,
+    cookie: { 
+      secure: process.env.NODE_ENV === 'production' ? true : false,
+      maxAge: 3600000,
+      sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax'
+    },
   })
 );
 
