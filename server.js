@@ -396,7 +396,7 @@ const resumeRoutes = require('./routes/resumes');
 const app = express();
 // Middleware
 app.use(cors({
-  origin: 'https://resume-builder-frontend-dun.vercel.app/',
+  origin: 'https://resume-builder-frontend-dun.vercel.app',
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
