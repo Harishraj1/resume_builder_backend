@@ -393,12 +393,10 @@ require('dotenv').config();
 const connectDB = require('./config/db');
 const authRoutes = require('./routes/auth');
 const resumeRoutes = require('./routes/resumes');
-
 const app = express();
-
 // Middleware
 app.use(cors({
-  origin: ['http://localhost:5173','https://resume-builder-frontend-dun.vercel.app/'],
+  origin: 'https://resume-builder-frontend-dun.vercel.app/',
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
   allowedHeaders: ['Content-Type', 'Authorization']
@@ -417,15 +415,11 @@ app.use(
     },
   })
 );
-
 // Connect to MongoDB
 connectDB();
-
 // Routes
 app.use('/api', authRoutes);
 app.use('/api/resumes', resumeRoutes);
-// app.use('/api', atsRoutes);
-
 // Start server
 const PORT = process.env.PORT || 4000;
 app.listen(PORT, () => console.log(`Server running on port${PORT}`));
