@@ -9,7 +9,7 @@ const app = express();
 // Middleware
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://resume-builder-frontend-h8wa.onrender.com'
+  'https://resume-builder-frontend-b8qv.onrender.com/'
 ];
 
 app.use(cors({
