@@ -3,7 +3,7 @@ const Resume = require('../models/Resume');
 const authenticate = require('../middleware/auth');
 const router = express.Router();
 
-router.get('/', authenticate, async (req, res) => {
+router.get('/resumes', authenticate, async (req, res) => {
   try {
     const resumes = await Resume.find({ userId: req.session.userId }).sort({ updatedAt: -1 });
     res.json(resumes);
