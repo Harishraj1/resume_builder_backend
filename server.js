@@ -51,7 +51,7 @@ app.use('/api/resumes', resumeRoutes);
 app.use('/api', atsRoutes);
 
 // New endpoint to fetch jobs from jobs.json
-app.get('/api/jobs', async (req, res) => {
+app.get('/jobs', async (req, res) => {
   try {
     const jobsPath = path.join(__dirname, 'data', 'jobs.json');
     console.log('Attempting to read jobs from:', jobsPath); // Debug log
