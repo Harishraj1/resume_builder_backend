@@ -54,8 +54,10 @@ app.use('/api', atsRoutes);
 app.get('/api/jobs', async (req, res) => {
   try {
     const jobsPath = path.join(__dirname, 'data', 'jobs.json');
+    console.log('Attempting to read jobs from:', jobsPath); // Debug log
     const jobsData = await fs.readFile(jobsPath, 'utf8');
     const jobs = JSON.parse(jobsData);
+    console.log('Jobs data:', jobs); // Debug log
     res.status(200).json(jobs);
   } catch (err) {
     console.error('Error reading jobs.json:', err);
