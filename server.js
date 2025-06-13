@@ -47,7 +47,7 @@ app.use(
 connectDB();
 // Routes
 app.use('/api', authRoutes);
-app.use('/api/resumes', resumeRoutes);
+app.use('/resumes', resumeRoutes);
 app.use('/api', atsRoutes);
 
 // New endpoint to fetch jobs from jobs.json
