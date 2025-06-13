@@ -13,7 +13,7 @@ const app = express();
 
 // Middleware
 const allowedOrigins = [
-  'http://localhost:5173'
+  'https://ai-resume-frontend-ihsj.onrender.com'
 ];
 
 app.use(cors({
