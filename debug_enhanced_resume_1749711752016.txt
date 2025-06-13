@@ -1,0 +1,67 @@
+Personal Info
+Name: SUDHAKARAN R
+Email: sudhakaran852582@gmail.com
+Phone: (+91) 8870752344
+Linkedin: https://www.linkedin.com/in/sudhakaran-r-b346a9228/
+Portfolio: https://github.com/Sudhakaran144
+Address: Thanjavur, Tamil Nadu
+Github: https://github.com/Sudhakaran144
+
+
+Professional Summary
+Enthusiastic full-stack developer passionate about building dynamic web applications, collaborating effectively within teams, and delivering high-quality solutions to enhance user experiences.  Skilled in designing and implementing scalable, user-friendly applications using a variety of technologies.  Proven ability to contribute to project success through teamwork and problem-solving skills.
+
+
+Technical Skills
+*- React
+*- Tailwind CSS
+*- Node.js
+*- Java
+*- HTML
+*- CSS
+*- JavaScript
+
+
+Experience
+Full Stack Developer|Syncner|2021-2025
+*- Developed an AI-driven chatbot for hardware stores, integrating with Shopify, WooCommerce, and BigCommerce platforms to provide real-time product discovery, order tracking, and customer support functionalities.  This improved customer engagement and streamlined the ordering process.
+
+
+Education
+B Tech Artificial Intelligence and Data Science|SNS College of Engineering, Coimbatore|2021-2025
+
+
+Certifications
+
+
+
+Projects
+Doctor Appointment website|Built a doctor appointment booking platform incorporating an AI chatbot for seamless patient-doctor interactions, including appointment scheduling and real-time assistance. This project improved appointment scheduling efficiency and patient satisfaction.
+E-Commerce Furniture website|Developed a full-stack e-commerce furniture website, encompassing a user-friendly frontend, a robust admin panel, and a scalable backend.  Implemented user authentication and a fully functional shopping cart.  
+Personal Task Manager|Developed Taskify, a task management application enabling users to seamlessly organize and track their tasks.  This application included user authentication, task creation, editing, and deletion features.
+
+
+Soft Skills
+*- Leadership
+*- Teamwork
+*- Quick Learner
+*- Problem-solving
+
+
+Languages
+tamil|fluent|9
+English|Intermediate|8
+
+
+Hobbies
+*- Playing cricket
+*- Listening to music
+*- Watching movies
+
+
+Role Title
+Full Stack Developer
+
+
+Additional Fields
+

@@ -1,0 +1,60 @@
+Personal Info
+Name: SUDHAKARAN R
+Email: sudhakaran852582@gmail.com
+Phone: (+91) 8870752344
+Linkedin: https://www.linkedin.com/in/sudhakaran-r-b346a9228/
+Portfolio: https://github.com/Sudhakaran144
+Address: Thanjavur, Tamil Nadu
+Github: https://github.com/Sudhakaran144
+
+
+Professional Summary
+Highly motivated and results-oriented full-stack developer with a passion for creating dynamic and user-friendly web applications. Proven ability to collaborate effectively within teams to deliver high-quality solutions that enhance user experience.  Experienced in designing and implementing scalable applications using cutting-edge technologies.
+
+
+Technical Skills
+*- Full Stack Development
+*- AI Integration
+*- Chatbot Development
+*- Shopify Integration
+*- WooCommerce Integration
+*- BigCommerce Integration
+*- Project Management
+*- Teamwork
+*- Problem-solving
+
+
+Experience
+Full Stack Developer|Syncner|2021-2025
+*- Developed an AI-driven chatbot for hardware stores, integrating with Shopify, WooCommerce, and BigCommerce platforms to provide real-time product discovery, order tracking, and enhanced customer support.  This improved customer satisfaction and streamlined the ordering process.
+
+
+Education
+B Tech Artificial Intelligence and Data Science|SNS College of Engineering, Coimbatore|2021-2025
+
+
+Certifications
+
+
+Projects
+Doctor Appointment website|Built a doctor appointment booking platform incorporating an AI-powered chatbot for seamless patient-doctor interaction. This included features for appointment scheduling and real-time assistance, improving patient experience and appointment management efficiency.|
+
+
+Soft Skills
+*- MERN Stack
+
+
+Languages
+tamil|fluent|9
+
+
+Hobbies
+*- playing cricket
+
+
+Role Title
+Full Stack Developer
+
+
+Additional Fields
+No additional fields

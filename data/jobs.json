@@ -1,0 +1,42 @@
+[
+    {
+      "id": "job1",
+      "profile": "MERN Stack Developer",
+      "description": "Develop and maintain full-stack web applications using MongoDB, Express.js, React, and Node.js. Collaborate with cross-functional teams to deliver scalable solutions.",
+      "skills": ["React", "Node.js", "Express", "MongoDB", "JavaScript", "TypeScript", "REST API", "Git", "AWS"],
+      "applyLink": "https://example.com/apply/mern-developer",
+      "experience": "3-5 years",
+      "location": "Bangalore",
+      "salary": "₹12L - ₹18L PA"
+    },
+    {
+      "id": "job2",
+      "profile": "Data Scientist",
+      "description": "Analyze large datasets to derive insights and build machine learning models. Work with Python and SQL to support business decisions.",
+      "skills": ["Python", "SQL", "Machine Learning", "Pandas", "TensorFlow", "Data Visualization"],
+      "applyLink": "https://example.com/apply/data-scientist",
+      "experience": "2-4 years",
+      "location": "Hyderabad",
+      "salary": "₹10L - ₹16L PA"
+    },
+    {
+      "id": "job3",
+      "profile": "DevOps Engineer",
+      "description": "Manage cloud infrastructure and CI/CD pipelines. Ensure high availability and scalability of systems using AWS, Docker, and Kubernetes.",
+      "skills": ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux", "Terraform"],
+      "applyLink": "https://example.com/apply/devops-engineer",
+      "experience": "4-6 years",
+      "location": "Pune",
+      "salary": "₹15L - ₹22L PA"
+    },
+    {
+      "id": "job4",
+      "profile": "Frontend Developer",
+      "description": "Build responsive and user-friendly interfaces using React and TypeScript. Collaborate with designers to implement pixel-perfect UI.",
+      "skills": ["React", "TypeScript", "HTML", "CSS", "JavaScript", "Redux"],
+      "applyLink": "https://example.com/apply/frontend-developer",
+      "experience": "2-3 years",
+      "location": "Mumbai",
+      "salary": "₹8L - ₹14L PA"
+    }
+  ]

@@ -1,0 +1,66 @@
+Personal Info
+Name: SUDHAKARAN R
+Email: sudhakaran852582@gmail.com
+Phone: (+91) 8870752344
+Linkedin: https://www.linkedin.com/in/sudhakaran-r-b346a9228/
+Portfolio: https://github.com/Sudhakaran144
+Address: Thanjavur, Tamil Nadu
+Github: https://github.com/Sudhakaran144
+
+
+Professional Summary
+Highly motivated and enthusiastic full-stack developer proficient in building dynamic web applications.  A collaborative team player dedicated to delivering high-quality solutions that enhance user experience and focused on designing and implementing scalable, user-friendly applications.
+
+
+Technical Skills
+*- React
+*- Tailwind CSS
+*- Node.js
+*- Java
+*- HTML
+*- CSS
+*- JavaScript
+
+
+Experience
+Full Stack Developer|Syncner|2021-2025
+*- Developed an AI-driven chatbot for hardware stores, integrating with Shopify, WooCommerce, and BigCommerce platforms to provide real-time product discovery, order tracking, and customer support functionalities.  This involved project management, teamwork, and problem-solving skills.
+
+
+Education
+B Tech Artificial Intelligence and Data Science|SNS College of Engineering, Coimbatore|2021-2025
+
+
+Certifications
+
+
+Projects
+Doctor Appointment website|Built a doctor appointment booking platform incorporating an AI chatbot for seamless patient-doctor interaction, including appointment scheduling and real-time assistance.
+E-Commerce Furniture website|Developed a full-stack e-commerce furniture website, encompassing frontend development, an admin panel, and backend infrastructure, featuring user authentication and a fully functional shopping cart.
+Personal Task Manager|Developed Taskify, a task management application facilitating seamless organization and task tracking.  Key features included user authentication, task creation, editing, and deletion functionalities.
+
+
+Soft Skills
+*- Leadership
+*- Teamwork
+*- Quick Learner
+*- Problem-solving
+
+
+Languages
+tamil|fluent|9
+English|Intermediate|8
+
+
+Hobbies
+*- Playing cricket
+*- Listening to music
+*- Watching movies
+
+
+Role Title
+Full Stack Developer
+
+
+Additional Fields
+

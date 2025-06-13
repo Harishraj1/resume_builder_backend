@@ -1,0 +1,65 @@
+Personal Info
+Name: SUDHAKARAN R
+Email: sudhakaran852582@gmail.com
+Phone: (+91) 8870752344
+Linkedin: https://www.linkedin.com/in/sudhakaran-r-b346a9228/
+Portfolio: https://github.com/Sudhakaran144
+Address: Thanjavur, Tamil Nadu
+Github: https://github.com/Sudhakaran144
+
+
+Professional Summary
+Highly motivated full-stack developer with a passion for creating dynamic web applications and delivering high-quality solutions that enhance user experience. Proven ability to collaborate effectively within teams and implement scalable, user-friendly applications using project management best practices. Seeking a challenging full-stack developer role leveraging expertise in full-stack development and project management skills to contribute to a dynamic team.
+
+
+Technical Skills
+*- Node.js
+*- Tailwind CSS
+*- React
+*- HTML
+*- CSS
+
+
+Experience
+Full Stack Developer|Syncner|2021-2025
+*- Developed an AI-driven chatbot for hardware stores, integrating with Shopify, WooCommerce, and BigCommerce platforms to provide real-time product discovery, order tracking, and customer support. This involved designing and implementing the chatbot's natural language processing (NLP) capabilities and integrating it with multiple e-commerce backends, improving customer support efficiency and enhancing user engagement.
+*- Successfully integrated multiple e-commerce platforms, resulting in improved customer support efficiency and enhanced user engagement.  This streamlined the customer journey and improved overall satisfaction.
+
+
+Education
+B Tech Artificial Intelligence and Data Science|SNS College of Engineering, Coimbatore|2021-2025
+
+
+Certifications
+
+
+Projects
+Doctor Appointment website|Built a doctor appointment booking platform with an AI-powered chatbot for seamless patient-doctor interactions, including appointment scheduling and real-time assistance. This project demonstrated expertise in full-stack development, AI integration, and user interface (UI) design, resulting in a user-friendly and efficient platform.
+E-Commerce Furniture website|Developed a full-stack e-commerce furniture website featuring a user-friendly frontend, a robust admin panel, and a scalable backend. Implemented user authentication and a fully functional shopping cart, enhancing the overall user experience and providing a seamless online shopping experience.
+Personal Task Manager|Taskify is a task management application designed for seamless organization and tracking of tasks. Key features included user authentication, task creation, editing, and deletion functionalities. The application was built using [mention technologies used if possible], demonstrating proficiency in application development and user interface design.
+
+
+Soft Skills
+*- Leadership
+*- Teamwork
+*- Collaboration
+*- Problem-solving
+
+
+Languages
+tamil|Fluent|10
+English|Intermediate|7
+
+
+Hobbies
+*- Playing cricket
+*- Movies
+*- Music
+
+
+Role Title
+Full Stack Developer
+
+
+Additional Fields
+

@@ -1,0 +1,71 @@
+Personal Info
+Name: Harishraj D
+Email: harishrajd24@gmail.com
+Phone: 9384711300
+Linkedin: https://www.linkedin.com/in/harishraj-d/
+Portfolio: https://www.portfolio.com
+Address: 49/40,Perumal Street,Gugai,Salem-6
+Github: https://www.github.com
+
+
+Professional Summary
+Highly skilled Frontend Developer proficient in JavaScript, React.js, HTML, CSS, and Node.js, with experience in building scalable web applications and collaborating effectively within agile development teams to deliver engaging user experiences.  Proven ability to improve user engagement and optimize cross-platform performance.
+
+
+Technical Skills
+*- HTML
+*- CSS
+*- JavaScript
+*- React.js
+*- Node.js
+*- MongoDB
+*- Python
+
+
+Experience
+Software Developer|SNS innovation hub|3-month
+*- Designed and developed interactive websites for SNS Innovation Hub, resulting in a 70% increase in user engagement.  Integrated AI features to enhance the overall user experience.
+Web developer|OctaNet|4-month
+*- Designed and developed interactive websites for OctaNet Services, achieving a 70% increase in user engagement.  Optimized frontend development to improve cross-platform performance.
+
+
+Education
+B.Tech|SNS|2021
+12th|Holy Cross|2017
+10th|Holy Cross|2019
+
+
+Certifications
+Python|Prepinsta|2021
+MERN|Prepinsta|2022
+
+
+Projects
+Bike Serve|Developed a MERN stack application (React.js, Node.js, Express.js, MongoDB, and Tailwind CSS) for service management, improving efficiency by 60%. Implemented a user-friendly interface with real-time email alerts for seamless customer interaction. |https://project-1.com
+Bulk mail|Developed a React.js, Node.js, Express.js, and MongoDB-based system for bulk email dispatch, resulting in a 75% increase in delivery efficiency. Designed a scalable architecture to ensure seamless operation. |https://project-2.com
+
+
+Soft Skills
+*- Consistent
+*- Leadership
+*- Teamwork
+*- Collaboration
+
+
+Languages
+English|Fluent|10
+Tamil|Fluent|8
+
+
+Hobbies
+*- Reading
+*- Playing
+
+
+Role Title
+Frontend Developer
+
+
+Additional Fields
+No additional fields
+

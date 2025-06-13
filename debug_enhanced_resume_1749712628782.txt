@@ -1,0 +1,62 @@
+Personal Info
+Name: SUDHAKARAN R
+Email: sudhakaran852582@gmail.com
+Phone: (+91) 8870752344
+Linkedin: https://www.linkedin.com/in/sudhakaran-r-b346a9228/
+Portfolio: https://github.com/Sudhakaran144
+Address: Thanjavur, Tamil Nadu
+Github: https://github.com/Sudhakaran144
+
+
+Professional Summary
+Enthusiastic full-stack developer passionate about building dynamic web applications, collaborating effectively in team environments, and delivering high-quality solutions to enhance user experiences. Skilled in designing and implementing scalable, user-friendly applications using agile methodologies and project management best practices.
+
+
+Technical Skills
+*- Node.js
+*- Tailwind CSS
+*- React
+*- HTML
+*- CSS
+
+
+Experience
+Full Stack Developer|Syncner|2021-2025
+*- Developed an AI-driven chatbot for hardware stores, integrating with Shopify, WooCommerce, and BigCommerce platforms to provide real-time product discovery, order tracking, and customer support functionalities.  This involved leveraging natural language processing (NLP) and machine learning (ML) techniques for improved customer interaction and efficient order management.
+
+
+Education
+B Tech Artificial Intelligence and Data Science|SNS College of Engineering, Coimbatore|2021-2025
+
+
+Certifications
+
+
+Projects
+Doctor Appointment website|Built a doctor appointment booking platform featuring an AI-powered chatbot for seamless patient-doctor interactions.  The platform facilitated appointment scheduling and provided real-time assistance, improving user experience and appointment efficiency.|
+E-Commerce Furniture website|Developed a full-stack e-commerce furniture website, including a user-friendly frontend, a robust admin panel, and a scalable backend. Implemented user authentication and a fully functional shopping cart, ensuring secure transactions and streamlined user workflows.|
+Personal Task Manager|Developed Taskify, a task management application designed for seamless organization and task tracking.  The application included features such as user authentication, task creation, editing, and deletion capabilities, enhancing productivity and task management for users.|
+
+
+Soft Skills
+*- Leadership
+*- Teamwork
+
+
+Languages
+tamil|Fluent|10
+English|Intermediate|7
+
+
+Hobbies
+*- playing cricket
+*- Movies
+*- Music
+
+
+Role Title
+Full Stack Developer
+
+
+Additional Fields
+
