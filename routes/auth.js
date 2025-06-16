@@ -59,6 +59,7 @@ router.post('/logout', (req, res) => {
 });
 
 router.get('/me', require('../middleware/auth'), async (req, res) => {
+  console.log('Fetching user with ID:', req.session.userId);
   try {
     const user = await User.findById(req.session.userId).select('-password');
     if (!user) {

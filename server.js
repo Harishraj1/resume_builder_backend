@@ -13,8 +13,10 @@
 
   // Middleware
   const allowedOrigins = [
-    'https://resume-builder-frontend-h8wa.onrender.com'
-  ];
+  'https://resume-builder-frontend-h8wa.onrender.com',
+  'http://localhost:5173'
+];
+
 
   app.use(cors({
     origin: function (origin, callback) {
