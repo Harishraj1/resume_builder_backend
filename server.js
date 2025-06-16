@@ -65,7 +65,7 @@ app.get('/jobs', async (req, res) => {
   }
 });
 
-app.use('/', (req, res) => {
+app.use('/test', (req, res) => {
   res.send('Welcome to the Resume Builder API');
 });
 // Start server
