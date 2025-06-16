@@ -13,7 +13,7 @@ const app = express();
 
 // Middleware
 const allowedOrigins = [
-  'https://ai-resume-frontend-ihsj.onrender.com'
+  'https://resume-builder-frontend-h8wa.onrender.com'
 ];
 
 app.use(cors({
