@@ -26,24 +26,39 @@ app.use(cors({
   },
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-  allowedHeaders: ['Content-Type', 'Authorization']
+  allowedHeaders: ['Content-Type', 'Authorization'],
+  exposedHeaders: ['set-cookie']
 }));
+
+
 
 
   app.use(express.json());
   app.use(express.urlencoded({ extended: true }));
-  app.use(
-    session({
-      secret: process.env.SESSION_SECRET || 'resumebuildersecret',
-      resave: false,
-      saveUninitialized: false,
-      cookie: { 
-        secure: process.env.NODE_ENV === 'production' ? true : false, 
-        maxAge: 3600000,
-        sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax'
-      },
-    })
-  );
+  
+  
+  // Add this after creating the app
+app.set('trust proxy', 1); // Trust first proxy
+
+// Update session configuration
+app.use(
+  session({
+    name: 'resume.sid', // Explicit session cookie name
+    secret: process.env.SESSION_SECRET || 'resumebuildersecret',
+    resave: false,
+    saveUninitialized: false,
+    proxy: true, // Add this if behind a proxy (like on Render)
+    cookie: { 
+      secure: process.env.NODE_ENV === 'production', 
+      maxAge: 3600000,
+      sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax',
+      httpOnly: true,
+      domain: process.env.NODE_ENV === 'production' ? '.onrender.com' : undefined,
+      path: '/',
+    }  
+  })
+);
+
   // Connect to MongoDB
   connectDB();
   // Routes
