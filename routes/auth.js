@@ -5,6 +5,7 @@ const router = express.Router();
 
 router.post('/register', async (req, res) => {
   const { name, email, password } = req.body;
+  console.log('Login attempt with email:', req.body);
   if (!name || !email || !password) {
     return res.status(400).json({ message: 'All fields are required' });
   }
@@ -18,6 +19,7 @@ router.post('/register', async (req, res) => {
     await user.save();
     req.session.userId = user._id;
     req.session.user = { id: user._id, name: user.name, email: user.email };
+    console.log("Session " , req.session.user)
     res.status(201).json({ user: { id: user._id, name: user.name, email: user.email } });
   } catch (err) {
     console.error('Register error:', err);
@@ -27,6 +29,7 @@ router.post('/register', async (req, res) => {
 
 router.post('/login', async (req, res) => {
   const { email, password } = req.body;
+  console.log('Login attempt with email:', email);
   if (!email || !password) {
     return res.status(400).json({ message: 'Email and password are required' });
   }
@@ -41,6 +44,7 @@ router.post('/login', async (req, res) => {
     }
     req.session.userId = user._id;
     req.session.user = { id: user._id, name: user.name, email: user.email };
+    console.log("Session " , req.session.user)
     res.json({ user: { id: user._id, name: user.name, email: user.email } });
   } catch (err) {
     console.error('Login error:', err);
