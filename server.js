@@ -53,7 +53,6 @@ app.use(
       maxAge: 3600000,
       sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax',
       httpOnly: true,
-      domain: process.env.NODE_ENV === 'production' ? '.onrender.com' : undefined,
       path: '/',
     }  
   })
