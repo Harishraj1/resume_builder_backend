@@ -12,24 +12,24 @@
   const app = express();
 
   // Middleware
-  const allowedOrigins = [
+ const allowedOrigins = [
   'https://resume-builder-frontend-h8wa.onrender.com',
   'http://localhost:5173'
 ];
 
+app.use(cors({
+  origin: (origin, callback) => {
+    if (!origin) return callback(null, true); // Allow non-browser tools like Postman
+    if (allowedOrigins.includes(origin)) {
+      return callback(null, true);
+    }
+    return callback(new Error('Not allowed by CORS'));
+  },
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization'],
+}));
 
-  app.use(cors({
-    origin: function (origin, callback) {
-      if (!origin || allowedOrigins.includes(origin)) {
-        callback(null, true);
-      } else {
-        callback(new Error('Not allowed by CORS'));
-      }
-    },
-    credentials: true,
-    methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
-    allowedHeaders: ['Content-Type', 'Authorization']
-  }));
 
   app.use(express.json());
   app.use(express.urlencoded({ extended: true }));
@@ -39,7 +39,7 @@
       resave: false,
       saveUninitialized: false,
       cookie: { 
-        secure: process.env.NODE_ENV === 'production' ? true : false,
+        secure: process.env.NODE_ENV === 'production' ? true : false, 
         maxAge: 3600000,
         sameSite: process.env.NODE_ENV === 'production' ? 'none' : 'lax'
       },
